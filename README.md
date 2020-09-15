@@ -9,6 +9,7 @@
 * 点亮`Star`
 * 凌晨4点定时执行
 *  自定义：.github/workflows/work.yaml 编辑
+* 未自动执行任务cron: 0 20 * * *
 
 ## 使用用法
 * 点击右上角 `Fork` 项目；
